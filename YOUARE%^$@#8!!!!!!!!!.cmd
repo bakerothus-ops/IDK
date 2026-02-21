@@ -10,4 +10,5 @@ if errorlevel 2 (
     :a
 start notepad.exe
 goto a
+
 )
