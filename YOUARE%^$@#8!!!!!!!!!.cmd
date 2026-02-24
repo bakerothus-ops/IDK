@@ -10,5 +10,12 @@ if errorlevel 2 (
     :a
 start notepad.exe
 goto a
+ :b
+start Command Prompt.exe
+goto b
+:c
+start Photos.exe
+goto c
 
 )
+
